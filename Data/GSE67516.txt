@@ -1,0 +1,11 @@
+# Accession: GSE67516
+# Contributors: Froberg JE,Wei CY,Kesner B,Lee JT
+# Pubmed ID: 26089354
+# Name: wild_type_Hi-C_Rep1     Organism: Mus musculus     Source: immortalized fibroblast     RE: HindIII
+GSM1648486 SRX976735 SRR1950458 HindIII mm9
+# Name: Xist_deletion_Hi-C_Rep1     Organism: Mus musculus     Source: immortalized fibroblast     RE: HindIII
+GSM1648487 SRX976736 SRR1950459 HindIII mm9
+# Name: wild_type_Hi-C_Rep2     Organism: Mus musculus     Source: immortalized fibroblast     RE: HindIII
+GSM1696042 SRX1038844 SRR2040489 HindIII mm9
+# Name: Xist_deletion_Hi-C_Rep2     Organism: Mus musculus     Source: immortalized fibroblast     RE: HindIII
+GSM1696043 SRX1038845 SRR2040490 HindIII mm9

@@ -1,0 +1,10 @@
+# Accession: GSE68992
+# Contributors: Deng X,Ma W,Ramani V,Shendure J,Duan Z,Noble WS,Disteche C
+# Name: DNaseHiC-WG-brain-Rep1     Organism: Mus musculus x Mus spretus     Source: brain cells     RE: DNase
+GSM1689794 SRX1033306 SRR2033054,SRR2033055,SRR2033056,SRR2033057 DNase mm9
+# Name: insituDNaseHiC-WG-brain-Rep1     Organism: Mus musculus x Mus spretus     Source: brain cells     RE: DNase
+GSM1689795 SRX1033307 SRR2033058,SRR2033059,SRR2033060,SRR2033061,SRR2033062,SRR2033063,SRR2033064,SRR2033065 DNase mm9
+# Name: insituDNaseHiC-WG-patski-Rep1     Organism: Mus musculus x Mus spretus     Source: Patski cells     RE: DNase
+GSM1689796 SRX1033308 SRR2033066,SRR2033067,SRR2033068,SRR2033069 DNase mm9
+# Name: insituDNaseHiC-WG-patski-Rep2     Organism: Mus musculus x Mus spretus     Source: Patski cells     RE: DNase
+GSM1689797 SRX1033309 SRR2033070,SRR2033071,SRR2033072,SRR2033073,SRR2033074,SRR2033075,SRR2033076,SRR2033077 DNase mm9

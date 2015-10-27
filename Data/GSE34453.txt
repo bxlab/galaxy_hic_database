@@ -1,0 +1,7 @@
+# Accession: GSE34453
+# Contributors: Sexton T,Yaffe E,Tanay A,Cavalli G
+# Pubmed ID: 22265598
+# Name: Pilot_simplified_Hi-C     Organism: Drosophila melanogaster     Source: 4-12 hr embryos     RE: DpnII
+GSM849421 SRX111554 SRR389756,SRR389757,SRR389758,SRR389759,SRR389760,SRR389761 DpnII dm6
+# Name: Deep-sequenced_simplified_Hi-C     Organism: Drosophila melanogaster     Source: 16-18 hr embryos     RE: DpnII
+GSM849422 SRX111555 SRR389762,SRR389763,SRR389764,SRR389765,SRR389766,SRR389767,SRR389768 DpnII dm6

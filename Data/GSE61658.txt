@@ -1,0 +1,26 @@
+# Accession: GSE61658
+# Contributors: Voss PA,Wagner S,Horn M,Felletti M,Zinsmaier M,Berthold MR,Hartig JS
+# Name: Sample_WT_exp_plusF_Rep1     Organism: Escherichia coli str. K-12 substr. MG1655     Source: E. coli MG1655 exponential phase, crosslink     RE: MluI
+GSM1510142 SRX708545 SRR1583700 MluI EC-MG1655
+# Name: Sample_WT_exp_plusF_Rep2     Organism: Escherichia coli str. K-12 substr. MG1655     Source: E. coli MG1655 exponential phase, crosslink     RE: MluI
+GSM1510143 SRX708546 SRR1583701 MluI EC-MG1655
+# Name: Sample_WT_exp_plusF_Rep3     Organism: Escherichia coli str. K-12 substr. MG1655     Source: E. coli MG1655 exponential phase, crosslink     RE: MluI
+GSM1510144 SRX708547 SRR1583702 MluI EC-MG1655
+# Name: Sample_WT_stat_plusF_Rep1     Organism: Escherichia coli str. K-12 substr. MG1655     Source: E. coli MG1655 stationary phase, crosslink     RE: MluI
+GSM1510148 SRX708551 SRR1583706 MluI EC-MG1655
+# Name: Sample_WT_stat_plusF_Rep2     Organism: Escherichia coli str. K-12 substr. MG1655     Source: E. coli MG1655 stationary phase, crosslink     RE: MluI
+GSM1510149 SRX708552 SRR1583707 MluI EC-MG1655
+# Name: Sample_WT_stat_plusF_Rep3     Organism: Escherichia coli str. K-12 substr. MG1655     Source: E. coli MG1655 stationary phase, crosslink     RE: MluI
+GSM1510150 SRX708553 SRR1583708 MluI EC-MG1655
+# Name: Sample_WT_exp_w-o_Rep1     Organism: Escherichia coli str. K-12 substr. MG1655     Source: E. coli MG1655 exponential phase, non-crosslink     RE: MluI
+GSM1510145 SRX708548 SRR1583703 MluI EC-MG1655
+# Name: Sample_WT_exp_w-o_Rep2     Organism: Escherichia coli str. K-12 substr. MG1655     Source: E. coli MG1655 exponential phase, non-crosslink     RE: MluI
+GSM1510146 SRX708549 SRR1583704 MluI EC-MG1655
+# Name: Sample_WT_exp_w-o_Rep3     Organism: Escherichia coli str. K-12 substr. MG1655     Source: E. coli MG1655 exponential phase, non-crosslink     RE: MluI
+GSM1510147 SRX708550 SRR1583705 MluI EC-MG1655
+# Name: Sample_WT_stat_w-o_Rep1     Organism: Escherichia coli str. K-12 substr. MG1655     Source: E. coli MG1655 stationary phase, non-crosslink     RE: MluI
+GSM1510151 SRX708554 SRR1583709 MluI EC-MG1655
+# Name: Sample_WT_stat_w-o_Rep2     Organism: Escherichia coli str. K-12 substr. MG1655     Source: E. coli MG1655 stationary phase, non-crosslink     RE: MluI
+GSM1510152 SRX708555 SRR1583710 MluI EC-MG1655
+# Name: Sample_WT_stat_w-o_Rep3     Organism: Escherichia coli str. K-12 substr. MG1655     Source: E. coli MG1655 stationary phase, non-crosslink     RE: MluI
+GSM1510153 SRX708556 SRR1583711 MluI EC-MG1655

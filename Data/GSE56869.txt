@@ -1,0 +1,19 @@
+# Accession: GSE56869
+# Contributors: Ma W,Ay F,Lee C,Gulsoy G,Deng X,Cook S,Hesson J,Ware CB,Krumm A,Shendure J,Blau CA,Disteche C,Noble WS,Duan Z
+# Pubmed ID: 25437436
+# Name: DNaseHiC-WG-H1     Organism: Homo sapiens     Source: DNase Hi-C experiment on H1 cells     RE: DNase
+GSM1370433 SRX520272 SRR1248175,SRR1248176 DNase hg19
+# Name: DNaseHiC-WG-K562     Organism: Homo sapiens     Source: DNase Hi-C experiment on K562 cells     RE: DNase
+GSM1370434 SRX520273 SRR1248177,SRR1248178,SRR1248179 DNase hg19
+# Name: targetedDNaseHiC-pe-H1-Rep1     Organism: Homo sapiens     Source: Targeted DNase Hi-C experiment on H1 cells, 220kb P-E library, biological replicate 1     RE: DNase
+GSM1370435 SRX520274 SRR1248180,SRR1248181,SRR1248182 DNase hg19
+# Name: targetedDNaseHiC-pe-K562-Rep1     Organism: Homo sapiens     Source: Targeted DNase Hi-C experiment on K562 cells, 220kb P-E library, biological replicate 1     RE: DNase
+GSM1370436 SRX520275 SRR1248183,SRR1248184,SRR1248185 DNase hg19
+# Name: targetedDNaseHiC-lincRNA-H1-Rep1     Organism: Homo sapiens     Source: Targeted DNase Hi-C experiment on H1 cells, lincRNA promoter library, biological replicate 1     RE: DNase
+GSM1370437 SRX520276 SRR1248186,SRR1248187,SRR1248188,SRR1248189 DNase hg19
+# Name: targetedDNaseHiC-lincRNA-H1-Rep2     Organism: Homo sapiens     Source: Targeted DNase Hi-C experiment on H1 cells, lincRNA promoter library, biological replicate 2     RE: DNase
+GSM1370438 SRX520277 SRR1248190,SRR1248191,SRR1248192 DNase hg19
+# Name: targetedDNaseHiC-lincRNA-K562-Rep1     Organism: Homo sapiens     Source: Targeted DNase Hi-C experiment on K562 cells, lincRNA promoter library, biological replicate 1     RE: DNase
+GSM1370439 SRX520278 SRR1248193,SRR1248194 DNase hg19
+# Name: targetedDNaseHiC-lincRNA-K562-Rep2     Organism: Homo sapiens     Source: Targeted DNase Hi-C experiment on K562 cells, lincRNA promoter library, biological replicate 2     RE: DNase
+GSM1370440 SRX520279 SRR1248195,SRR1248196 DNase hg19

@@ -1,0 +1,7 @@
+# Accession: SUB540202
+# Contributors: Nariman Battulin,# Veniamin S Fishman,# Alexander M Mazur, Mikhail Pomaznoy, Anna A Khabarova, Dmitry A Afonnikov, Egor B Prokhortchouk, and Oleg L Serov
+# Pubmed ID: 25886366
+# Name: Sperm_Cell     Organism: Mus musculus     Source: Sperm     RE: HindIII
+SRX553176 SRX553176 SRR1299151 HindIII mm9
+# Name: Fibroblast_Cell     Organism: Mus musculus     Source: Fibroblast     RE: HindIII
+SRX554530 SRX554530 SRR1300754 HindIII mm9

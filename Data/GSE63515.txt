@@ -1,0 +1,37 @@
+# Accession: GSE63515
+# Contributors: Li L,Lyu X,Corces V
+# Pubmed ID: 25818644
+# Name: Hi-C_HS_7_Rep1     Organism: Drosophila melanogaster     Source: Kc167     RE: HindIII
+GSM1551439 SRX764886 SRR1658523 HindIII dm6
+# Name: Hi-C_HS_8_Rep2     Organism: Drosophila melanogaster     Source: Kc167     RE: HindIII
+GSM1551440 SRX764887 SRR1658524 HindIII dm6
+# Name: Hi-C_NT5_Rep1     Organism: Drosophila melanogaster     Source: Kc167     RE: DpnII
+GSM1551441 SRX764888 SRR1658525 DpnII dm6
+# Name: Hi-C_NT_25_Rep2     Organism: Drosophila melanogaster     Source: Kc167     RE: DpnII
+GSM1551442 SRX764889 SRR1658526 DpnII dm6
+# Name: Hi-C_NT_53_Rep3     Organism: Drosophila melanogaster     Source: Kc167     RE: DpnII
+GSM1551443 SRX764890 SRR1658527 DpnII dm6
+# Name: Hi-C_NT_89_Rep4     Organism: Drosophila melanogaster     Source: Kc167     RE: DpnII
+GSM1551444 SRX764891 SRR1658528 DpnII dm6
+# Name: Hi-C_Triptolide6_Rep1     Organism: Drosophila melanogaster     Source: Kc167     RE: DpnII
+GSM1551445 SRX764892 SRR1658529 DpnII dm6
+# Name: Hi-C_Triptolide_26_Rep2     Organism: Drosophila melanogaster     Source: Kc167     RE: DpnII
+GSM1551446 SRX764893 SRR1658530 DpnII dm6
+# Name: Hi-C_Triptolide_43_Rep3     Organism: Drosophila melanogaster     Source: Kc167     RE: DpnII
+GSM1551447 SRX764894 SRR1658531 DpnII dm6
+# Name: Hi-C_Flavopiridol7_Rep1     Organism: Drosophila melanogaster     Source: Kc167     RE: DpnII
+GSM1551448 SRX764895 SRR1658532 DpnII dm6
+# Name: Hi-C_Flavopiridol_27_Rep2     Organism: Drosophila melanogaster     Source: Kc167     RE: DpnII
+GSM1551449 SRX764896 SRR1658533 DpnII dm6
+# Name: Hi-C_Flavopiridol_42_Rep3     Organism: Drosophila melanogaster     Source: Kc167     RE: DpnII
+GSM1551450 SRX764897 SRR1658534 DpnII dm6
+# Name: Hi-C_Rad21NT_91_Rep1     Organism: Drosophila melanogaster     Source: Kc167     RE: DpnII
+GSM1551451 SRX764898 SRR1658535 DpnII dm6
+# Name: Hi-C_CapH28_Rep1     Organism: Drosophila melanogaster     Source: Kc167     RE: DpnII
+GSM1551452 SRX764899 SRR1658536 DpnII dm6
+# Name: Hi-C_CapH2_28_Rep2     Organism: Drosophila melanogaster     Source: Kc167     RE: DpnII
+GSM1551453 SRX764900 SRR1658537 DpnII dm6
+# Name: Hi-C_CapH2_50_Rep3     Organism: Drosophila melanogaster     Source: Kc167     RE: DpnII
+GSM1551454 SRX764901 SRR1658538 DpnII dm6
+# Name: Hi-C_Rad21HS_92_Rep1     Organism: Drosophila melanogaster     Source: Kc167     RE: DpnII
+GSM1551455 SRX764902 SRR1658539 DpnII dm6

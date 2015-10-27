@@ -1,0 +1,19 @@
+# Accession: GSE44267
+# Contributors: Dixon J,Ren B,Wendt K
+# Pubmed ID: 24335803
+# Name: Hi-C_RAD21cv_HEK293_TEV_treated_Rep1     Organism: Homo sapiens     Source: Hi-C, RAD21cv HEK293, TEV treated     RE: HindIII
+GSM1081526 SRX235592 SRR710058,SRR710059,SRR710060 HindIII hg19
+# Name: Hi-C_RAD21cv_HEK293_TEV_treated_Rep2     Organism: Homo sapiens     Source: Hi-C, RAD21cv HEK293, TEV treated     RE: HindIII
+GSM1081527 SRX235593 SRR710061,SRR710062,SRR710063 HindIII hg19
+# Name: Hi-C_RAD21cv_HEK293_HRV_treated_Rep1     Organism: Homo sapiens     Source: Hi-C, RAD21cv HEK293, HRV treated     RE: HindIII
+GSM1081528 SRX235594 SRR710064,SRR710065,SRR710066 HindIII hg19
+# Name: Hi-C_RAD21cv_HEK293_HRV_treated_Rep2     Organism: Homo sapiens     Source: Hi-C, RAD21cv HEK293, HRV treated     RE: HindIII
+GSM1081529 SRX235595 SRR710067,SRR710068,SRR710069,SRR710070 HindIII hg19
+# Name: Hi-C_HEK293_siRNA_Control_Rep1     Organism: Homo sapiens     Source: Hi-C, HEK293 siRNA Control     RE: HindIII
+GSM1081530 SRX235596 SRR710071,SRR710072,SRR710073,SRR710074 HindIII hg19
+# Name: Hi-C_HEK293_siRNA_Control_Rep2     Organism: Homo sapiens     Source: Hi-C, HEK293 siRNA Control     RE: HindIII
+GSM1081531 SRX235597 SRR710075,SRR710076,SRR710077 HindIII hg19
+# Name: Hi-C_HEK293_siRNA_CTCF_Rep1     Organism: Homo sapiens     Source: Hi-C, HEK293 siRNA CTCF     RE: HindIII
+GSM1081532 SRX235598 SRR710078,SRR710079,SRR710080 HindIII hg19
+# Name: Hi-C_HEK293_siRNA_CTCF_Rep2     Organism: Homo sapiens     Source: Hi-C, HEK293 siRNA CTCF     RE: HindIII
+GSM1081533 SRX235599 SRR710081,SRR710082,SRR710083 HindIII hg19

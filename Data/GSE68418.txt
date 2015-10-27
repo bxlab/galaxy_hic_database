@@ -1,0 +1,85 @@
+# Accession: GSE68418
+# Contributors: Wang X,Rudner DZ
+# Pubmed ID: 26253537
+# Name: 01_Rudnerlab_HindIII_HiC_PY79     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671399 SRX1014144 SRR2002580 HindIII bs-PY79
+# Name: 02_Rudnerlab_HindIII_HiC_PY79_Rep1     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671400 SRX1014145 SRR2002581 HindIII bs-PY79
+# Name: 03_Rudnerlab_HindIII_HiC_BDR1873     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671401 SRX1014146 SRR2002582 HindIII bs-PY79
+# Name: 04_Rudnerlab_HindIII_HiC_BDR1873_Rep1     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671402 SRX1014147 SRR2002583 HindIII bs-PY79
+# Name: 05_Rudnerlab_HindIII_HiC_PY79_S7sorb37C     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671403 SRX1014148 SRR2002584 HindIII bs-PY79
+# Name: 06_Rudnerlab_HindIII_HiC_BDR1873_S7sorb37C     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671404 SRX1014149 SRR2002585 HindIII bs-PY79
+# Name: 07_Rudnerlab_HindIII_HiC_BWX2876     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671405 SRX1014150 SRR2002586 HindIII bs-PY79
+# Name: 08_Rudnerlab_HindIII_HiC_BDR2292     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671406 SRX1014151 SRR2002587 HindIII bs-PY79
+# Name: 09_Rudnerlab_HindIII_HiC_BWX3196     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671407 SRX1014152 SRR2002588 HindIII bs-PY79
+# Name: 10_Rudnerlab_HindIII_HiC_BDR2707     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671408 SRX1014153 SRR2002589 HindIII bs-PY79
+# Name: 11_Rudnerlab_HindIII_HiC_BWX3208     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671409 SRX1014154 SRR2002590 HindIII bs-PY79
+# Name: 12_Rudnerlab_HindIII_HiC_BWX3209     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671410 SRX1014155 SRR2002591 HindIII bs-PY79
+# Name: 13_Rudnerlab_HindIII_HiC_BWX3151_30C     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671411 SRX1014156 SRR2002592 HindIII bs-PY79
+# Name: 14_Rudnerlab_HindIII_HiC_BWX3151_42C10m     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671412 SRX1014157 SRR2002593 HindIII bs-PY79
+# Name: 15_Rudnerlab_HindIII_HiC_BWX3151_42C20m     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671413 SRX1014158 SRR2002594 HindIII bs-PY79
+# Name: 16_Rudnerlab_HindIII_HiC_BWX3151_42C40m     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671414 SRX1014159 SRR2002595 HindIII bs-PY79
+# Name: 17_Rudnerlab_HindIII_HiC_BWX2080_42C20m     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671415 SRX1014160 SRR2002596 HindIII bs-PY79
+# Name: 18_Rudnerlab_HindIII_HiC_BWX3266_spo30C190m     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671416 SRX1014161 SRR2002597 HindIII bs-PY79
+# Name: 19_Rudnerlab_HindIII_HiC_BWX3266_spo30C170m42C20m     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671417 SRX1014162 SRR2002598 HindIII bs-PY79
+# Name: 20_Rudnerlab_HindIII_HiC_BWX3266_spo30C150m42C40m     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671418 SRX1014163 SRR2002599 HindIII bs-PY79
+# Name: 21_Rudnerlab_HindIII_HiC_PY79_S7sorb22C     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671419 SRX1014164 SRR2002600 HindIII bs-PY79
+# Name: 22_Rudnerlab_HindIII_HiC_BDR2298_S7sorb22C     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671420 SRX1014165 SRR2002601 HindIII bs-PY79
+# Name: 23_Rudnerlab_HindIII_HiC_BDR2996     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671421 SRX1014166 SRR2002602 HindIII bs-PY79
+# Name: 24_Rudnerlab_HindIII_HiC_BDR2985     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671422 SRX1014167 SRR2002603 HindIII bs-PY79
+# Name: 25_Rudnerlab_HindIII_HiC_BNS1657     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671423 SRX1014168 SRR2002604 HindIII bs-PY79
+# Name: 26_Rudnerlab_HindIII_HiC_BWX2761     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671424 SRX1014169 SRR2002605 HindIII bs-PY79
+# Name: 27_Rudnerlab_HindIII_HiC_BDR3007     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671425 SRX1014170 SRR2002606 HindIII bs-PY79
+# Name: 28_Rudnerlab_HindIII_HiC_BWX3172     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671426 SRX1014171 SRR2002607 HindIII bs-PY79
+# Name: 29_Rudnerlab_HindIII_HiC_BWX3221     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671427 SRX1014172 SRR2002608 HindIII bs-PY79
+# Name: 30_Rudnerlab_HindIII_HiC_BWX3231     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671428 SRX1014173 SRR2002609 HindIII bs-PY79
+# Name: 31_Rudnerlab_HindIII_HiC_BNS1733_30C     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671429 SRX1014174 SRR2002610 HindIII bs-PY79
+# Name: 32_Rudnerlab_HindIII_HiC_BNS1733_42C45m     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671430 SRX1014175 SRR2002611 HindIII bs-PY79
+# Name: 33_Rudnerlab_HindIII_HiC_BNS1733_42C120m     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671431 SRX1014176 SRR2002612 HindIII bs-PY79
+# Name: 34_Rudnerlab_HindIII_HiC_BDR1050_spo37C150m     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671432 SRX1014177 SRR2002613 HindIII bs-PY79
+# Name: 35_Rudnerlab_HindIII_HiC_BWX3091_spo37C150m     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1671433 SRX1014178 SRR2002614 HindIII bs-PY79
+# Name: 35_Rudnerlab_HindIII_HiC_ BWX3304_30C   Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1821865 SRX1097302 SRR2102707 HindIII bs-PY79
+# Name: 35_Rudnerlab_HindIII_HiC_BWX3304_42C20min     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1821866 SRX1014178 SRR2102708 HindIII bs-PY79
+# Name: 35_Rudnerlab_HindIII_HiC_BWX3359_30C     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1821867 SRX1014178 SRR2102709 HindIII bs-PY79
+# Name: 35_Rudnerlab_HindIII_HiC_BWX3359_42C40min     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1821868 SRX1014178 SRR2102710 HindIII bs-PY79
+# Name: 35_Rudnerlab_HindIII_HiC_BWX3208     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1821869 SRX1014178 SRR2102711 HindIII bs-PY79
+# Name: 35_Rudnerlab_HindIII_HiC_BWX3309     Organism: Bacillus subtilis PY79     Source: Bacillus subtilis PY79     RE: HindIII
+GSM1821870 SRX1014178 SRR2102712 HindIII bs-PY79

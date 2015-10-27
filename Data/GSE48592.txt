@@ -1,0 +1,11 @@
+# Accession: GSE48592
+# Contributors: Dixon JR,Selvaraj S,Ren B
+# Pubmed ID: 24185094
+# Name: Hi-C_F123_mouse_ES_cells_Rep1     Organism: Mus musculus     Source: F123 mouse embyronic stem cells     RE: HindIII
+GSM1181865 SRX318774 SRR927079,SRR927080,SRR927081 HindIII mm9
+# Name: Hi-C_F123_mouse_ES_cells_Rep2    Organism: Mus musculus     Source: F123 mouse embyronic stem cells     RE: HindIII
+GSM1181866 SRX318775 SRR927082,SRR927083,SRR927084,SRR927085 HindIII mm9
+# Name: Hi-C_GM12878_Lymphoblastoid_cells_Rep1     Organism: Homo sapiens     Source: GM12878 Lymphoblastoid cells     RE: HindIII
+GSM1181867 SRX318776 SRR927086,SRR927087,SRR927088,SRR927089 HindIII hg19
+# Name: Hi-C_GM12878_Lymphoblastoid_cells_Rep2     Organism: Homo sapiens     Source: GM12878 Lymphoblastoid cells     RE: HindIII
+GSM1181868 SRX318777 SRR927090,SRR927091,SRR927092,SRR927093 HindIII hg19

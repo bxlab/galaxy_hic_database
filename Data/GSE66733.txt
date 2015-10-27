@@ -1,0 +1,6 @@
+# Accession: GSE66733
+# Contributors: Barutcu AR,Lajoie BR,McCord RP,Tye CE,Hong D,Messier TL,Browne G,van wijnen AJ,Lian JB,Stein JL,Dekker J,Imbalzano AN,Stein GS
+# Name: MCF-10A_Hi-C     Organism: Homo sapiens     Source: Mammary epithelial cell line     RE: HindIII
+GSM1631184 SRX950724 SRR1909069 HindIII hg19
+# Name: MCF-7_Hi-C     Organism: Homo sapiens     Source: Breast cancer cell line     RE: HindIII
+GSM1631185 SRX950725 SRR1909070 HindIII hg19

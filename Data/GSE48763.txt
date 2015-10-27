@@ -1,0 +1,11 @@
+# Accession: GSE48763
+# Contributors: Merkenschlager M,Dekker J
+# Pubmed ID: 24002784
+# Name: Hi-C_Tcell_Rad21KO_R1     Organism: Mus musculus     Source: CD4+ CD8+ Double Positive Thymocytes     RE: HindIII
+GSM1184321 SRX320073 SRR931721,SRR931722,SRR931723,SRR931724 HindIII mm9
+# Name: Hi-C_Tcell_Rad21KO_R3     Organism: Mus musculus     Source: CD4+ CD8+ Double Positive Thymocytes     RE: HindIII
+GSM1184322 SRX320074 SRR931725,SRR931726,SRR931727 HindIII mm9
+# Name: Hi-C_Tcell_Rad21WT_R1     Organism: Mus musculus     Source: CD4+ CD8+ Double Positive Thymocytes     RE: HindIII
+GSM1184323 SRX320075 SRR931728,SRR931729,SRR931730,SRR931731 HindIII mm9 
+# Name: Hi-C_Tcell_Rad21WT_R3     Organism: Mus musculus     Source: CD4+ CD8+ Double Positive Thymocytes     RE: HindIII
+GSM1184324 SRX320076 SRR931732,SRR931733,SRR931734 HindIII mm9

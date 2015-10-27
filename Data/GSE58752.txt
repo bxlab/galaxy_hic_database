@@ -1,0 +1,11 @@
+# Accession: GSE58752
+# Contributors: Jung I,Schmitt A,Leung D,Ren B
+# Pubmed ID: 25693566
+# Name: Hi-C_Thymus_STL001_Rep1     Organism: Homo sapiens     Source: Thymus STL001     RE: HindIII
+GSM1419083 SRX641264 SRR1501134,SRR1501135,SRR1501136,SRR1501137 HindIII hg19
+# Name: Hi-C_Aorta_STL002_Rep1     Organism: Homo sapiens     Source: Aorta STL002     RE: HindIII
+GSM1419084 SRX641265 SRR1501138,SRR1501139,SRR1501140,SRR1501141 HindIII hg19
+# Name: Hi-C_LeftVentricle_STL003_Rep1     Organism: Homo sapiens     Source: LeftVentricle STL003     RE: HindIII
+GSM1419085 SRX641266 SRR1501142,SRR1501143,SRR1501144,SRR1501145,SRR1501146 HindIII hg19
+# Name: Hi-C_Liver_STL011_Rep1     Organism: Homo sapiens     Source: Liver STL011     RE: HindIII
+GSM1419086 SRX641267 SRR1501147,SRR1501148,SRR1501149,SRR1501150,SRR1501151 HindIII hg19

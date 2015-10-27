@@ -1,0 +1,9 @@
+# Accession: GSE38468
+# Contributors: Hou C, Li L, Qin Z, Corces VG
+# Pubmed ID: 23041285
+# Name: Hi-C_library_Rep1     Organism: Drosophila melanogaster     Source: Kc167     RE: HindIII
+GSM942889 SRX115398 SRR398318 HindIII dm6
+# Name: Hi-C_library_Rep2     Organism: Drosophila melanogaster     Source: Kc167     RE: HindIII
+GSM942890 SRX115572 SRR398920 HindIII dm6
+# Name: Hi-C_library_Rep3     Organism: Drosophila melanogaster     Source: Kc167     RE: HindIII
+GSM942891 SRX115573 SRR398921 HindIII dm6

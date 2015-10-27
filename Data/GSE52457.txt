@@ -1,0 +1,23 @@
+# Accession: GSE52457
+# Contributors: Dixon JR,Jung I,Selvaraj S,Ren B
+# Pubmed ID: 25693564
+# Name: Hi-C_H1_embryonic_stem_cells_Rep1     Organism: Homo sapiens     Source: H1 embryonic stem cells     RE: HindIII
+GSM1267196 SRX378271 SRR1030718,SRR1030719,SRR1030720,SRR1030721 HindIII hg19
+# Name: Hi-C_H1_embryonic_stem_cells_Rep2     Organism: Homo sapiens     Source: H1 embryonic stem cells     RE: HindIII
+GSM1267197 SRX378272 SRR1030722,SRR1030723,SRR1030724,SRR1030725,SRR1030726,SRR1030727 HindIII hg19
+# Name: Hi-C_H1_Mesendoderm_cells_Rep1     Organism: Homo sapiens     Source: H1 Mesendoderm cells     RE: HindIII
+GSM1267198 SRX378273 SRR1030728,SRR1030729,SRR1030730,SRR1030731,SRR1030732,SRR1030733,SRR1030734 HindIII hg19
+# Name: Hi-C_H1_Mesendoderm_cells_Rep2     Organism: Homo sapiens     Source: H1 Mesendoderm cells     RE: HindIII
+GSM1267199 SRX378274 SRR1030735,SRR1030736,SRR1030737,SRR1030738 HindIII hg19
+# Name: Hi-C_H1_Mesenchymal_stem_cells_Rep1     Organism: Homo sapiens     Source: H1 Mesenchymal stem cells     RE: HindIII
+GSM1267200 SRX378275 SRR1030739,SRR1030740,SRR1030741 HindIII hg19
+# Name: Hi-C_H1_Mesenchymal_stem_cells_Rep2     Organism: Homo sapiens     Source: H1 Mesenchymal stem cells     RE: HindIII
+GSM1267201 SRX378276 SRR1030742,SRR1030743,SRR1030744 HindIII hg19
+# Name: Hi-C_H1_Neuronal_Progenitor_cells_Rep1     Organism: Homo sapiens     Source: H1 Neuronal Progenitor cells     RE: HindIII
+GSM1267202 SRX378277 SRR1030745,SRR1030746,SRR1030747,SRR1030748,SRR1030749,SRR1030750,SRR1030751,SRR1030752 HindIII hg19
+# Name: Hi-C_H1_Neuronal_Progenitor_cells_Rep2     Organism: Homo sapiens     Source: H1 Neuronal Progenitor cells     RE: HindIII
+GSM1267203 SRX378278 SRR1030753,SRR1030754,SRR1030755 HindIII hg19
+# Name: Hi-C_H1_Trophectoderm_cells_Rep1     Organism: Homo sapiens     Source: H1 Trophectoderm cells     RE: HindIII
+GSM1267204 SRX378279 SRR1030756,SRR1030757,SRR1030758,SRR1030759,SRR1030760,SRR1030761,SRR1030762 HindIII hg19
+# Name: Hi-C_H1_Trophectoderm_cells_Rep2     Organism: Homo sapiens     Source: H1 Trophectoderm cells     RE: HindIII
+GSM1267205 SRX378280 SRR1030763,SRR1030764,SRR1030765 HindIII hg19

@@ -1,0 +1,19 @@
+# Accession: GSE18199
+# Contributors: Lieberman-Aiden E,Van Berkum N
+# Pubmed ID: 19815776,20461051
+# Name: Hi-C_HindIII_GM_Rep1     Organism: Homo sapiens     Source: GM06990     RE: HindIII
+GSM455133 SRX011608 SRR027956 HindIII hg19
+# Name: Hi-C_HindIII_GM_Rep4     Organism: Homo sapiens     Source: GM06990     RE: HindIII
+GSM455134 SRX011609 SRR027957 HindIII hg19
+# Name: Hi-C_HindIII_GM_Rep2     Organism: Homo sapiens     Source: GM06990     RE: HindIII
+GSM455135 SRX011610 SRR027958 HindIII hg19
+# Name: Hi-C_HindIII_GM_Rep3     Organism: Homo sapiens     Source: GM06990     RE: HindIII
+GSM455136 SRX011611 SRR027959 HindIII hg19
+# Name: Hi-C_NcoI_GM_Rep1     Organism: Homo sapiens     Source: GM06990     RE: NcoI
+GSM455137 SRX011612 SRR027960 NcoI hg19
+# Name: Hi-C_NcoI_GM_Rep2     Organism: Homo sapiens     Source: GM06990     RE: NcoI
+GSM455138 SRX011613 SRR027961 NcoI hg19
+# Name: Hi-C_HindIII_K562_Rep1     Organism: Homo sapiens     Source: K562     RE: HindIII
+GSM455139 SRX011614 SRR027962 HindIII hg19
+# Name: Hi-C_HindIII_K562_Rep2     Organism: Homo sapiens     Source: K562     RE: HindIII
+GSM455140 SRX011615 SRR027963 HindIII hg19

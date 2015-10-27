@@ -1,0 +1,20 @@
+# Accession: GSE70181
+# Contributors: Nagano T,Várnai C,Schoenfelder S,Javierre B,Wingett SW,Fraser P
+# Name: Human_Hi-C_in-nucleus_ligation_Rep1     Organism: Homo sapiens     Source: H9 (WA09; WiCell) human ESCs     RE: HindIII
+GSM1718020 SRX1070630 SRR2075604 HindIII hg19
+# Name: Human_Hi-C_in-solution_ligation_Rep1     Organism: Homo sapiens     Source: H9 (WA09; WiCell) human ESCs     RE: HindIII
+GSM1718021 SRX1070631 SRR2075605 HindIII hg19
+# Name: Human_Hi-C_in-nucleus_ligation_Rep2     Organism: Homo sapiens     Source: H9 (WA09; WiCell) human ESCs     RE: HindIII
+GSM1718022 SRX1070632 SRR2075606,SRR2075607 HindIII hg19
+# Name: Human_Hi-C_in-solution_ligation_Rep2     Organism: Homo sapiens     Source: H9 (WA09; WiCell) human ESCs     RE: HindIII
+GSM1718023 SRX1070633 SRR2075608,SRR2075609 HindIII hg19
+# Name: Mouse_Hi-C_in-nucleus_ligation_Rep1     Organism: Mus musculus     Source: Mouse foetal liver cells from C57BL/6 mouse embryos, (E14.5)     RE: HindIII
+GSM1718024 SRX1070634 SRR2075610,SRR2075611 HindIII mm9
+# Name: Mouse_Hi-C_in-solution_ligation_Rep1     Organism: Mus musculus     Source: Mouse foetal liver cells from C57BL/6 mouse embryos, (E14.5)     RE: HindIII
+GSM1718025 SRX1070635 SRR2075612,SRR2075613 HindIII mm9
+# Name: Mouse_Hi-C_in-nucleus_ligation_Rep2     Organism: Mus musculus     Source: Mouse foetal liver cells from C57BL/6 mouse embryos, (E14.5)     RE: HindIII
+GSM1718026 SRX1070636 SRR2075614,SRR2075615,SRR2075616 HindIII mm9
+# Name: Mouse_Hi-C_in-solution_ligation_Rep2     Organism: Mus musculus     Source: Mouse foetal liver cells from C57BL/6 mouse embryos, (E14.5)     RE: HindIII
+GSM1718027 SRX1070637 SRR2075617,SRR2075618,SRR2075619 HindIII mm9
+# Name: Mouse_random_Hi-C_ligation     Organism: Mus musculus     Source: Mouse foetal liver cells from C57BL/6 mouse embryos, (E14.5)     RE: HindIII
+GSM1718028 SRX1070638 SRR2075620 HindIII mm9

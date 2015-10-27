@@ -1,0 +1,21 @@
+# Accession: GSE35156
+# Contributors: Dixon J,Ren B
+# Pubmed ID: 22495300
+# Name: RenLab-HiC-hESC_Rep1     Organism: Homo sapiens     Source: Human ES     RE: HindIII
+GSM862723 SRX116344 SRR400260,SRR400261,SRR400262,SRR400263 HindIII hg19
+# Name: RenLab-HiC-hESC_Rep2     Organism: Homo sapiens     Source: Human ES     RE: HindIII
+GSM892306 SRX128221 SRR442155,SRR442156,SRR442157 HindIII hg19
+# Name: RenLab-HiC-mESC-NcoI     Organism: Mus musculus     Source: Mouse ES     RE: NcoI
+GSM862722 SRX116343 SRR443886,SRR443887,SRR443888 NcoI mm9
+# Name: RenLab-HiC-mESC-HindIII_Rep1     Organism: Mus musculus     Source: Mouse ES     RE: HindIII
+GSM862720 SRX116341 SRR443883,SRR443884,SRR443885 HindIII mm9
+# Name: RenLab-HiC-mESC-HindIII_Rep2     Organism: Mus musculus     Source: Mouse ES     RE: HindIII
+GSM862721 SRX116342 SRR400251,SRR400252,SRR400253,SRR400254,SRR400255,SRR400256 HindIII mm9
+# Name: RenLab-HiC-IMR90_Rep1     Organism: Homo sapiens     Source: Human IMR90     RE: HindIII
+GSM862724 SRX116345 SRR400264,SRR400265,SRR400266,SRR400267,SRR400268 HindIII hg19
+# Name: RenLab-HiC-IMR90_Rep2     Organism: Homo sapiens     Source: Human IMR90     RE: HindIII
+GSM892307 SRX128222 SRR442158,SRR442159,SRR442160 HindIII hg19
+# Name: RenLab-HiC-cortex_Rep1     Organism: Mus musculus     Source: Mouse ES     RE: HindIII
+GSM892304 SRX128219 SRR442145,SRR442146,SRR442147,SRR442148,SRR442149,SRR442150 HindIII mm9
+# Name: RenLab-HiC-cortex_Rep2     Organism: Mus musculus     Source: Mouse ES     RE: HindIII
+GSM892305 SRX128220 SRR442151,SRR442152,SRR442153,SRR442154 HindIII mm9

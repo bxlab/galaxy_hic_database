@@ -1,0 +1,403 @@
+# Accession: GSE63525
+# Contributors: Rao S,Huntley M,Lieberman Aiden E
+# Pubmed ID: 25497547
+# Name: HIC001     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551550 SRX764936 SRR1658570 MboI hg19
+# Name: HIC002     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551551 SRX764937 SRR1658571 MboI hg19
+# Name: HIC003     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551552 SRX764938 SRR1658572 MboI hg19
+# Name: HIC004     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551553 SRX764939 SRR1658573 MboI hg19
+# Name: HIC005     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551554 SRX764940 SRR1658574,SRR1658575,SRR1658576 MboI hg19
+# Name: HIC006     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551555 SRX764941 SRR1658577 MboI hg19
+# Name: HIC007     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551556 SRX764942 SRR1658578 MboI hg19
+# Name: HIC008     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551557 SRX764943 SRR1658579 MboI hg19
+# Name: HIC009     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551558 SRX764944 SRR1658580 MboI hg19
+# Name: HIC010     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551559 SRX764945 SRR1658581 MboI hg19
+# Name: HIC011     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551560 SRX764946 SRR1658582 MboI hg19
+# Name: HIC012     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551561 SRX764947 SRR1658583 MboI hg19
+# Name: HIC013     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551562 SRX764948 SRR1658584 MboI hg19
+# Name: HIC014     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551563 SRX764949 SRR1658585,SRR1658586 MboI hg19
+# Name: HIC015     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551564 SRX764950 SRR1658587 MboI hg19
+# Name: HIC016     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551565 SRX764951 SRR1658588 MboI hg19
+# Name: HIC017     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551566 SRX764952 SRR1658589 MboI hg19
+# Name: HIC018     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551567 SRX764953 SRR1658590 MboI hg19
+# Name: HIC019     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551568 SRX764954 SRR1658591 MboI hg19
+# Name: HIC020     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551569 SRX764955 SRR1658592 MboI hg19
+# Name: HIC021     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551570 SRX764956 SRR1658593 MboI hg19
+# Name: HIC022     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551571 SRX764957 SRR1658594,SRR1658595 MboI hg19
+# Name: HIC023     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551572 SRX764958 SRR1658596,SRR1658597 MboI hg19
+# Name: HIC024     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551573 SRX764959 SRR1658598 MboI hg19
+# Name: HIC025     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551574 SRX764960 SRR1658599 MboI hg19
+# Name: HIC026     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551575 SRX764961 SRR1658600 MboI hg19
+# Name: HIC027     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551576 SRX764962 SRR1658601 MboI hg19
+# Name: HIC028     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551577 SRX764963 SRR1658602 MboI hg19
+# Name: HIC029     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551578 SRX764964 SRR1658603 MboI hg19
+# Name: HIC030     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551579 SRX764965 SRR1658604 MboI hg19
+# Name: HIC031     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551580 SRX764966 SRR1658605 MboI hg19
+# Name: HIC032     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551581 SRX764967 SRR1658606 MboI hg19
+# Name: HIC033     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551582 SRX764968 SRR1658607 MboI hg19
+# Name: HIC034     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551583 SRX764969 SRR1658608,SRR1658609,SRR1658610,SRR1658611,SRR1658612,SRR1658613,SRR1658614,SRR1658615,SRR1658616,SRR1658617,SRR1658618,SRR1658619,SRR1658620,SRR1658621,SRR1658622,SRR1658623,SRR1658624 HindIII hg19
+# Name: HIC035     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551584 SRX764970 SRR1658625,SRR1658626,SRR1658627,SRR1658628,SRR1658629,SRR1658630,SRR1658631 HindIII hg19
+# Name: HIC036     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551585 SRX764971 SRR1658632,SRR1658633,SRR1658634,SRR1658635 NcoI hg19
+# Name: HIC037     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551586 SRX764972 SRR1658636,SRR1658637,SRR1658638,SRR1658639,SRR1658640,SRR1658641,SRR1658642,SRR1658643 HindIII hg19
+# Name: HIC038     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551587 SRX764973 SRR1658644 DpnII hg19
+# Name: HIC039     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551588 SRX764974 SRR1658645 DpnII hg19
+# Name: HIC040     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551589 SRX764975 SRR1658646 DpnII hg19
+# Name: HIC041     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551590 SRX764976 SRR1658647 DpnII hg19
+# Name: HIC042     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551591 SRX764977 SRR1658648 DpnII hg19
+# Name: HIC043     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551592 SRX764978 SRR1658649 MboI hg19
+# Name: HIC044     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551593 SRX764979 SRR1658650,SRR1658651 MboI hg19
+# Name: HIC045     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551594 SRX764980 SRR1658652,SRR1658653,SRR1658654,SRR1658655,SRR1658656,SRR1658657,SRR1658658,SRR1658659 MboI hg19
+# Name: HIC046     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551595 SRX764981 SRR1658660,SRR1658661 MboI hg19
+# Name: HIC047     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551596 SRX764982 SRR1658662,SRR1658663,SRR1658664,SRR1658665,SRR1658666,SRR1658667,SRR1658668,SRR1658669 MboI hg19
+# Name: HIC048     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551597 SRX764983 SRR1658670 MboI hg19
+# Name: HIC049     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551598 SRX764984 SRR1658671 MboI hg19
+# Name: HIC050     Organism: Homo sapiens     Source: Lung Fibroblasts     RE: 
+GSM1551599 SRX764985 SRR1658672 MboI hg19
+# Name: HIC051     Organism: Homo sapiens     Source: Lung Fibroblasts     RE: 
+GSM1551600 SRX764986 SRR1658673 MboI hg19
+# Name: HIC052     Organism: Homo sapiens     Source: Lung Fibroblasts     RE: 
+GSM1551601 SRX764987 SRR1658674 MboI hg19
+# Name: HIC053     Organism: Homo sapiens     Source: Lung Fibroblasts     RE: 
+GSM1551602 SRX764988 SRR1658675 MboI hg19
+# Name: HIC054     Organism: Homo sapiens     Source: Lung Fibroblasts     RE: 
+GSM1551603 SRX764989 SRR1658676 MboI hg19
+# Name: HIC055     Organism: Homo sapiens     Source: Lung Fibroblasts     RE: 
+GSM1551604 SRX764990 SRR1658677 MboI hg19
+# Name: HIC056     Organism: Homo sapiens     Source: Lung Fibroblasts     RE: 
+GSM1551605 SRX764991 SRR1658678 MboI hg19
+# Name: HIC057     Organism: Homo sapiens     Source: Lung Fibroblasts     RE: 
+GSM1551606 SRX764992 SRR1658679 HindIII hg19
+# Name: HIC058     Organism: Homo sapiens     Source: Mammary Epithelial Cells     RE: 
+GSM1551607 SRX764993 SRR1658680 MboI hg19
+# Name: HIC059     Organism: Homo sapiens     Source: Mammary Epithelial Cells     RE: 
+GSM1551608 SRX764994 SRR1658681 MboI hg19
+# Name: HIC060     Organism: Homo sapiens     Source: Mammary Epithelial Cells     RE: 
+GSM1551609 SRX764995 SRR1658682 MboI hg19
+# Name: HIC061     Organism: Homo sapiens     Source: Mammary Epithelial Cells     RE: 
+GSM1551610 SRX764996 SRR1658683 MboI hg19
+# Name: HIC062     Organism: Homo sapiens     Source: Mammary Epithelial Cells     RE: 
+GSM1551611 SRX764997 SRR1658684 MboI hg19
+# Name: HIC063     Organism: Homo sapiens     Source: Mammary Epithelial Cells     RE: 
+GSM1551612 SRX764998 SRR1658685 MboI hg19
+# Name: HIC064     Organism: Homo sapiens     Source: Mammary Epithelial Cells     RE: 
+GSM1551613 SRX764999 SRR1658686,SRR1658687,SRR1658688 HindIII hg19
+# Name: HIC065     Organism: Homo sapiens     Source: Epidermal Keratinocytes     RE: 
+GSM1551614 SRX765000 SRR1658689 MboI hg19
+# Name: HIC066     Organism: Homo sapiens     Source: Epidermal Keratinocytes     RE: 
+GSM1551615 SRX765001 SRR1658690 MboI hg19
+# Name: HIC067     Organism: Homo sapiens     Source: Epidermal Keratinocytes     RE: 
+GSM1551616 SRX765002 SRR1658691 MboI hg19
+# Name: HIC068     Organism: Homo sapiens     Source: Epidermal Keratinocytes     RE: 
+GSM1551617 SRX765003 SRR1658692 HindIII hg19
+# Name: HIC069     Organism: Homo sapiens     Source: Erythroleukemia     RE: 
+GSM1551618 SRX765004 SRR1658693 MboI hg19
+# Name: HIC070     Organism: Homo sapiens     Source: Erythroleukemia     RE: 
+GSM1551619 SRX765005 SRR1658694 MboI hg19
+# Name: HIC071     Organism: Homo sapiens     Source: Erythroleukemia     RE: 
+GSM1551620 SRX765006 SRR1658695,SRR1658696 MboI hg19
+# Name: HIC072     Organism: Homo sapiens     Source: Erythroleukemia     RE: 
+GSM1551621 SRX765007 SRR1658697,SRR1658698 MboI hg19
+# Name: HIC073     Organism: Homo sapiens     Source: Erythroleukemia     RE: 
+GSM1551622 SRX765008 SRR1658699,SRR1658700 MboI hg19
+# Name: HIC074     Organism: Homo sapiens     Source: Erythroleukemia     RE: 
+GSM1551623 SRX765009 SRR1658701,SRR1658702 MboI hg19
+# Name: HIC075     Organism: Homo sapiens     Source: Near Haploid Myelogenous Leukemia     RE: 
+GSM1551624 SRX765010 SRR1658703 MboI hg19
+# Name: HIC076     Organism: Homo sapiens     Source: Near Haploid Myelogenous Leukemia     RE: 
+GSM1551625 SRX765011 SRR1658704,SRR1658705 MboI hg19
+# Name: HIC077     Organism: Homo sapiens     Source: Near Haploid Myelogenous Leukemia     RE: 
+GSM1551626 SRX765012 SRR1658706 MboI hg19
+# Name: HIC078     Organism: Homo sapiens     Source: Near Haploid Myelogenous Leukemia     RE: 
+GSM1551627 SRX765013 SRR1658707 MboI hg19
+# Name: HIC079     Organism: Homo sapiens     Source: Near Haploid Myelogenous Leukemia     RE: 
+GSM1551628 SRX765014 SRR1658708 MboI hg19
+# Name: HIC080     Organism: Homo sapiens     Source: Umbilical Vein Endothelial Cells     RE: 
+GSM1551629 SRX765015 SRR1658709,SRR1658710,SRR1658711 MboI hg19
+# Name: HIC081     Organism: Homo sapiens     Source: Umbilical Vein Endothelial Cells     RE: 
+GSM1551630 SRX765016 SRR1658712 MboI hg19
+# Name: HIC082     Organism: Homo sapiens     Source: Umbilical Vein Endothelial Cells     RE: 
+GSM1551631 SRX765017 SRR1658713,SRR1658714 MboI hg19
+# Name: HIC083     Organism: Homo sapiens     Source: Umbilical Vein Endothelial Cells     RE: 
+GSM1551632 SRX765018 SRR1658715 HindIII hg19
+# Name: HIC088     Organism: Mus musculus     Source: B-lymphoblasts     RE: 
+GSM1551633 SRX765019 SRR1658716 MboI mm9
+# Name: HIC089     Organism: Mus musculus     Source: B-lymphoblasts     RE: 
+GSM1551634 SRX765020 SRR1658717 MboI mm9
+# Name: HIC090     Organism: Mus musculus     Source: B-lymphoblasts     RE: 
+GSM1551635 SRX765021 SRR1658718 MboI mm9
+# Name: HIC091     Organism: Mus musculus     Source: B-lymphoblasts     RE: 
+GSM1551636 SRX765022 SRR1658719 MboI mm9
+# Name: HIC092     Organism: Mus musculus     Source: B-lymphoblasts     RE: 
+GSM1551637 SRX765023 SRR1658720 MboI mm9
+# Name: HIC093     Organism: Mus musculus     Source: B-lymphoblasts     RE: 
+GSM1551638 SRX765024 SRR1658721 MboI mm9
+# Name: HIC094     Organism: Mus musculus     Source: B-lymphoblasts     RE: 
+GSM1551639 SRX765025 SRR1658722 MboI mm9
+# Name: HIC095     Organism: Mus musculus     Source: B-lymphoblasts     RE: 
+GSM1551640 SRX765026 SRR1658723 MboI mm9
+# Name: HIC096     Organism: Mus musculus     Source: B-lymphoblasts     RE: 
+GSM1551641 SRX765027 SRR1658724 MboI mm9
+# Name: HIC097     Organism: Mus musculus     Source: B-lymphoblasts     RE: 
+GSM1551642 SRX765028 SRR1658725 MboI mm9
+# Name: HIC098     Organism: Mus musculus     Source: B-lymphoblasts     RE: 
+GSM1551643 SRX765029 SRR1658726 MboI mm9
+# Name: HIC099     Organism: Mus musculus     Source: B-lymphoblasts     RE: 
+GSM1551644 SRX765030 SRR1658727 MboI mm9
+# Name: HIC100     Organism: Mus musculus     Source: B-lymphoblasts     RE: 
+GSM1551645 SRX765031 SRR1658728 MboI mm9
+# Name: HIC101     Organism: Mus musculus     Source: B-lymphoblasts     RE: 
+GSM1551646 SRX765032 SRR1658729 MboI mm9
+# Name: HIC102     Organism: Mus musculus     Source: B-lymphoblasts     RE: 
+GSM1551647 SRX765033 SRR1658730 MboI mm9
+# Name: HIC103     Organism: Mus musculus     Source: B-lymphoblasts     RE: 
+GSM1551648 SRX765034 SRR1658731 HindIII mm9
+# Name: HIC104     Organism: Mus musculus     Source: B-lymphoblasts     RE: 
+GSM1551649 SRX765035 SRR1658732 HindIII mm9
+# Name: HIC105     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551650 SRX765036 SRR1658733 NcoI hg19
+# Name: HIC106     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551651 SRX765037 SRR1658734 HindIII hg19
+# Name: HIC107     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551652 SRX765038 SRR1658735 NcoI hg19
+# Name: HIC108     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+#GSM1551653 SRX765039 SRR1658736 NcoI hg19
+# Name: HIC109     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+#GSM1551654 SRX765040 SRR1658737 NcoI hg19
+# Name: HIC110     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551655 SRX765041 SRR1658738 NcoI hg19
+# Name: HIC111     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551656 SRX765042 SRR1658739 NcoI hg19
+# Name: HIC112     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551657 SRX765043 SRR1658740 NcoI hg19
+# Name: HIC113     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551658 SRX765044 SRR1658741 NcoI hg19
+# Name: HIC114     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551659 SRX765045 SRR1658742 NcoI hg19
+# Name: HIC115     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551660 SRX765046 SRR1658743 NcoI hg19
+# Name: HIC116     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551661 SRX765047 SRR1658744 NcoI hg19
+# Name: HIC117     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551662 SRX765048 SRR1658745 NcoI hg19
+# Name: HIC118     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551663 SRX765049 SRR1658746 NcoI hg19
+# Name: HIC119     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551664 SRX765050 SRR1658747 NcoI hg19
+# Name: HIC120     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551665 SRX765051 SRR1658748 MspI hg19
+# Name: HIC121     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551666 SRX765052 SRR1658749 NcoI hg19
+# Name: HIC122     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551667 SRX765053 SRR1658750 NcoI hg19
+# Name: HIC123     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551668 SRX765054 SRR1658751 NcoI hg19
+# Name: HIC124     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551669 SRX765055 SRR1658752 NcoI hg19
+# Name: HIC125     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551670 SRX765056 SRR1658753 NcoI hg19
+# Name: HIC126     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551671 SRX765057 SRR1658754 NcoI hg19
+# Name: HIC127     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551672 SRX765058 SRR1658755 NcoI hg19
+# Name: HIC128     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551673 SRX765059 SRR1658756 NcoI hg19
+# Name: HIC129     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551674 SRX765060 SRR1658757 NcoI hg19
+# Name: HIC130     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551675 SRX765061 SRR1658758 NcoI hg19
+# Name: HIC131     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551676 SRX765062 SRR1658759 NcoI hg19
+# Name: HIC132     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551677 SRX765063 SRR1658760 NcoI hg19
+# Name: HIC133     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551678 SRX765064 SRR1658761 MspI hg19
+# Name: HIC134     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551679 SRX765065 SRR1658762 NcoI hg19
+# Name: HIC135     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551680 SRX765066 SRR1658763 NcoI hg19
+# Name: HIC136     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551681 SRX765067 SRR1658764 NcoI hg19
+# Name: HIC137     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551682 SRX765068 SRR1658765 NcoI hg19
+# Name: HIC138     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551683 SRX765069 SRR1658766 MboI hg19
+# Name: HIC139     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551684 SRX765070 SRR1658767 MboI hg19
+# Name: HIC140     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551685 SRX765071 SRR1658768 MboI hg19
+# Name: HIC141     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551686 SRX765072 SRR1658769 MboI hg19
+# Name: HIC142     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551687 SRX765073 SRR1658770 MboI hg19
+# Name: HIC143     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551688 SRX765074 SRR1658771 MboI hg19
+# Name: HIC144     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551689 SRX765075 SRR1658772 MboI hg19
+# Name: HIC145     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551690 SRX765076 SRR1658773 MboI hg19
+# Name: HIC146     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551691 SRX765077 SRR1658774 MboI hg19
+# Name: HIC147     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551692 SRX765078 SRR1658775 MboI hg19
+# Name: HIC148     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551693 SRX765079 SRR1658776 MboI hg19
+# Name: HIC149     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551694 SRX765080 SRR1658777 MboI hg19
+# Name: HIC150     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551695 SRX765081 SRR1658778 MboI hg19
+# Name: HIC151     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551696 SRX765082 SRR1658779 MboI hg19
+# Name: HIC152     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551697 SRX765083 SRR1658780 MboI hg19
+# Name: HIC153     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551698 SRX765084 SRR1658781 MboI hg19
+# Name: HIC154     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551699 SRX765085 SRR1658782 MboI hg19
+# Name: HIC155     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551700 SRX765086 SRR1658783 MboI hg19
+# Name: HIC156     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551701 SRX765087 SRR1658784 MboI hg19
+# Name: HIC157     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551702 SRX765088 SRR1658785 MboI hg19
+# Name: HIC158     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551703 SRX765089 SRR1658786 MboI hg19
+# Name: HIC159     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551704 SRX765090 SRR1658787 MboI hg19
+# Name: HIC160     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551705 SRX765091 SRR1658788 MboI hg19
+# Name: HIC161     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551706 SRX765092 SRR1658789 MboI hg19
+# Name: HIC162     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551707 SRX765093 SRR1658790 MboI hg19
+# Name: HIC163     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551708 SRX765094 SRR1658791 MboI hg19
+# Name: HIC164     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551709 SRX765095 SRR1658792 MboI hg19
+# Name: HIC165     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551710 SRX765096 SRR1658793 MboI hg19
+# Name: HIC166     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551711 SRX765097 SRR1658794 MboI hg19
+# Name: HIC167     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551712 SRX765098 SRR1658795 MboI hg19
+# Name: HIC168     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551713 SRX765099 SRR1658796 MboI hg19
+# Name: HIC169     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551714 SRX765100 SRR1658797 MboI hg19
+# Name: HIC170     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551715 SRX765101 SRR1658798 MboI hg19
+# Name: HIC171     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551716 SRX765102 SRR1658799 MboI hg19
+# Name: HIC172     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551717 SRX765103 SRR1658800 MboI hg19
+# Name: HIC173     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551718 SRX765104 SRR1658801 MboI hg19
+# Name: HIC174     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551719 SRX765105 SRR1658802 MboI hg19
+# Name: HIC175     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551720 SRX765106 SRR1658803 MboI hg19
+# Name: HIC176     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551721 SRX765107 SRR1658804 MboI hg19
+# Name: HIC177     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551722 SRX765108 SRR1658805 MboI hg19
+# Name: HIC178     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551723 SRX765109 SRR1658806 MboI hg19
+# Name: HIC179     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551724 SRX765110 SRR1658807 MboI hg19
+# Name: HIC180     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551725 SRX765111 SRR1658808 MboI hg19
+# Name: HIC181     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551726 SRX765112 SRR1658809 MboI hg19
+# Name: HIC182     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551727 SRX765113 SRR1658810 MboI hg19
+# Name: HIC183     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551728 SRX765114 SRR1658811 MboI hg19
+# Name: HIC184     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551729 SRX765115 SRR1658812 HindIII hg19
+# Name: HIC185     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551730 SRX765116 SRR1658813 MboI hg19
+# Name: HIC186     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551731 SRX765117 SRR1658814 MboI hg19
+# Name: HIC187     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551732 SRX765118 SRR1658815 MboI hg19
+# Name: HIC188     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551733 SRX765119 SRR1658816 MboI hg19
+# Name: HIC189     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551734 SRX765120 SRR1658817 MboI hg19
+# Name: HIC190     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551735 SRX765121 SRR1658818 MboI hg19
+# Name: HIC191     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551736 SRX765122 SRR1658819 MboI hg19
+# Name: HIC192     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551737 SRX765123 SRR1658820 MboI hg19
+# Name: HIC193     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551738 SRX765124 SRR1658821 MboI hg19
+# Name: HIC194     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551739 SRX765125 SRR1658822 MboI hg19
+# Name: HIC195     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551740 SRX765126 SRR1658823 MboI hg19
+# Name: HIC196     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551741 SRX765127 SRR1658824 MboI hg19
+# Name: HIC197     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551742 SRX765128 SRR1658825 DpnII hg19
+# Name: HIC198     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551743 SRX765129 SRR1658826 MboI hg19
+# Name: HIC199     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551744 SRX765130 SRR1658827 DpnII hg19
+# Name: HIC200     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551745 SRX765131 SRR1658828 DpnII hg19
+# Name: HIC201     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551746 SRX765132 SRR1658829 MboI hg19
+# Name: HIC041_MiSeq     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551747 SRX765133 SRR1658830 DpnII hg19
+# Name: HIC042_MiSeq     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551748 SRX765134 SRR1658831 DpnII hg19
+# Name: HIC048_MiSeq     Organism: Homo sapiens     Source: B-lymphoblastoids     RE: 
+GSM1551749 SRX765135 SRR1658832 MboI hg19

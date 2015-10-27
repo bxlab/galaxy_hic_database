@@ -1,0 +1,19 @@
+# Accession: GSE65126
+# Contributors: Vietri Rudan M,Barrington C,Ernst C,Odom DT,Tanay A,Hadjur S
+# Pubmed ID: 25732821
+# Name: HiC_mouse_liver_Rep1     Organism: Mus musculus     Source: Liver     RE: HindIII
+GSM1587701 SRX851861 SRR1771322 HindIII mm9
+# Name: HiC_mouse_liver_Rep2     Organism: Mus musculus     Source: Liver     RE: HindIII
+GSM1587702 SRX851862 SRR1771323,SRR1771324,SRR1771325 HindIII mm9
+# Name: HiC_rabbit_liver_Rep1     Organism: Oryctolagus cuniculus     Source: Liver     RE: HindIII
+GSM1587703 SRX851863 SRR1771326 HindIII oc2
+# Name: HiC_rabbit_liver_Rep2     Organism: Oryctolagus cuniculus     Source: Liver     RE: HindIII
+GSM1587704 SRX851864 SRR1771327 HindIII oc2
+# Name: HiC_macaque_liver_Rep1     Organism: Macaca mulatta     Source: Liver     RE: HindIII
+GSM1587705 SRX851865 SRR1771328 HindIII rm3
+# Name: HiC_macaque_liver_Rep2     Organism: Macaca mulatta     Source: Liver     RE: HindIII
+GSM1587706 SRX851866 SRR1771329 HindIII rm3
+# Name: HiC_dog_liver_Rep1     Organism: Canis lupus familiaris     Source: Liver     RE: HindIII
+GSM1587707 SRX851867 SRR1771330,SRR1771331 HindIII cf3
+# Name: HiC_dog_liver_Rep2     Organism: Canis lupus familiaris     Source: Liver     RE: HindIII
+GSM1587708 SRX851868 SRR1771332,SRR1771333,SRR1771334,SRR1771335,SRR1771336,SRR1771337 HindIII cf3

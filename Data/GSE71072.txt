@@ -1,0 +1,6 @@
+# Accession: GSE71072
+# Contributors: Gorkin D,Jung I,Ren B,Canzio D,Maniatis T
+# Name: Hi-C_SK-N-SH_Rep_1     Organism: Homo sapiens     Source: SK-N-SH     RE: HindIII
+GSM1826481 SRX1100381 SRR2106508,SRR2106509,SRR2106510 HindIII hg19
+# Name: Hi-C_SK-N-SH_Rep_2     Organism: Homo sapiens     Source: SK-N-SH     RE: HindIII
+GSM1826482 SRX1100382 SRR2106511,SRR2106512,SRR2106513 HindIII hg19

@@ -1,0 +1,7 @@
+# Accession: GSE63717
+# Contributors: Crane E,Bian Q,McCord RP,Lajoie BR,Wheeler BS,Ralston EJ,Uzawa S,Dekker J,Meyer BJ
+# Pubmed ID: 26030525
+# Name: Wild-Type_N2_Sample     Organism: Caenorhabditis elegans     Source: mixed stage embryos     RE: DpnII
+GSM1556154 SRX770040 SRR1665087,SRR1665088,SRR1665089,SRR1665090,SRR1665091 DpnII ce10
+# Name: DC_Mutant_SRy93_Sample     Organism: Caenorhabditis elegans     Source: mixed stage embryos     RE: DpnII
+GSM1556155 SRX770041 SRR1665092,SRR1665093,SRR1665094,SRR1665095 DpnII ce10

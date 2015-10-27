@@ -1,0 +1,7 @@
+# Accession: GSE34587
+# Contributors: Shen Y,Yue F,Ren B
+# Pubmed ID: 22763441
+# Name: RenLab-HiC-cortex_Rep1     Organism: Mus musculus     Source: Mouse cortex     RE: HindIII
+GSM938750 SRX150196 SRR501772,SRR501773,SRR501774,SRR501775,SRR501776,SRR501777 HindIII mm9
+# Name: RenLab-HiC-cortex_Rep2     Organism: Mus musculus     Source: Mouse cortex     RE: HindIII
+GSM938751 SRX150197 SRR501778,SRR501779,SRR501780,SRR501781 HindIII mm9

@@ -1,0 +1,11 @@
+# Accession: GSE50199
+# Contributors: Ay F,Bunnik EM,Varoquaux N,Bol SM,Prudhomme J,Vert J,Noble WS,Le Roch KG
+# Pubmed ID: 24671853
+# Name: P.falciparum_3D7_0h_HiSeq     Organism: Plasmodium falciparum 3D7     Source: Erythrocytic cycle     RE: MboI
+GSM1215592 SRX339587 SRR957160 MboI PF-3D7
+# Name: P.falciparum_3D7_18h_HiSeq     Organism: Plasmodium falciparum 3D7     Source: Erythrocytic cycle     RE: MboI
+GSM1215593 SRX339588 SRR957161,SRR957162,SRR957163,SRR957164 MboI PF-3D7
+# Name: P.falciparum_3D7_36h_HiSeq     Organism: Plasmodium falciparum 3D7     Source: Erythrocytic cycle     RE: MboI
+GSM1215594 SRX339589 SRR957165,SRR957166 MboI PF-3D7
+# Name: P.falciparum_3D7_18h_HiSeq_non-crosslinked_control     Organism: Plasmodium falciparum 3D7     Source: Erythrocytic cycle     RE: MboI
+GSM1215595 SRX339590 SRR957167,SRR957168 MboI PF-3D7

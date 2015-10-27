@@ -1,0 +1,7 @@
+# Accession: GSE37644
+# Contributors: Moissiard G,Cokus SJ,Cary J,Feng S,Billi AC,Stroud H,Husmann D,Zhan Y,Lajoie BR,McCord RP,Hale CJ,Feng W,Michaels SD,Frand AR,Pellegrini M,Dekker J,Kim JK,Jacobsen S
+# Pubmed ID: 22555433
+# Name: WT_Hi-C     Organism: Arabidopsis thaliana     Source: Floral tissue     RE: HindIII
+GSM1078404 SRX227441 SRR681003 HindIII
+# Name: crh6_mutant_Hi-C     Organism: Arabidopsis thaliana     Source: Floral tissue     RE: HindIII
+GSM1078405 SRX227442 SRR681004 HindIII

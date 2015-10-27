@@ -1,0 +1,37 @@
+# Accession: GSE45966
+# Contributors: Le TB,Laub MT,Imakaev MV,Mirny LA
+# Pubmed ID: 24158908
+# Name: Laublab_BglII_HiC_NA1000_swarmer_cell_untreated_Rep1     Organism: Caulobacter crescentus CB15     Source: Caulobacter crecentus CB15N     RE: BglII
+GSM1120445 SRX263922 SRR824843 BglII CC-CB15N
+# Name: Laublab_BglII_HiC_NA1000_swarmer_cell_untreated_Rep2     Organism: Caulobacter crescentus CB15     Source: Caulobacter crecentus CB15N     RE: BglII
+GSM1120446 SRX263923 SRR824844 BglII CC-CB15N
+# Name: Laublab_NcoI_HiC_NA1000_swarmer_cell_untreated     Organism: Caulobacter crescentus CB15     Source: Caulobacter crecentus CB15N     RE: NcoI
+GSM1120448 SRX263925 SRR824846 NcoI CC-CB15N
+# Name: Laublab_BglII_HiC_NA1000_swarmer_cell_Novobiocin_50ug_per_ml_30min     Organism: Caulobacter crescentus CB15     Source: Caulobacter crecentus CB15N     RE: BglII
+GSM1120449 SRX263926 SRR824847 BglII CC-CB15N
+# Name: Laublab_BglII_HiC_NA1000_swarmer_cell_Novobiocin_25ug_per_ml_30min     Organism: Caulobacter crescentus CB15     Source: Caulobacter crecentus CB15N     RE: BglII
+GSM1120450 SRX263927 SRR824848 BglII CC-CB15N
+# Name: Laublab_BglII_HiC_NA1000_swarmer_cell_Rifampicin_25ug_per_ml_30min     Organism: Caulobacter crescentus CB15     Source: Caulobacter crecentus CB15N     RE: BglII
+GSM1120451 SRX263928 SRR824849 BglII CC-CB15N
+# Name: Laublab_BglII_HiC_NA1000_swarmer_cell_smc_knockout     Organism: Caulobacter crescentus CB15     Source: Caulobacter crecentus CB15N     RE: BglII
+GSM1120452 SRX263929 SRR824850 BglII CC-CB15N
+# Name: Laublab_BglII_HiC_NA1000_swarmer_cell_hup1hup2_knockout     Organism: Caulobacter crescentus CB15     Source: Caulobacter crecentus CB15N     RE: BglII
+GSM1120453 SRX263930 SRR824851 BglII CC-CB15N
+# Name: Laublab_HiC_NA1000_swarmer_cell_rsaA_relocation_van_locus     Organism: Caulobacter crescentus CB15     Source: Caulobacter crecentus CB15N     RE: BglII
+GSM1120454 SRX263931 SRR824852 BglII CC-CB15N
+# Name: Laublab_BglII_HiC_NA1000_cellcycle_0min     Organism: Caulobacter crescentus CB15     Source: Caulobacter crecentus CB15N     RE: BglII
+GSM1120455 SRX263932 SRR824853 BglII CC-CB15N
+# Name: Laublab_BglII_HiC_NA1000_cellcycle_10min     Organism: Caulobacter crescentus CB15     Source: Caulobacter crecentus CB15N     RE: BglII
+GSM1120456 SRX263933 SRR824854 BglII CC-CB15N
+# Name: Laublab_BglII_HiC_NA1000_cellcycle_30min     Organism: Caulobacter crescentus CB15     Source: Caulobacter crecentus CB15N     RE: BglII
+GSM1120457 SRX263934 SRR824855 BglII CC-CB15N
+# Name: Laublab_BglII_HiC_NA1000_cellcycle_45min     Organism: Caulobacter crescentus CB15     Source: Caulobacter crecentus CB15N     RE: BglII
+GSM1120458 SRX263935 SRR824856 BglII CC-CB15N
+# Name: Laublab_BglII_HiC_NA1000_cellcycle_60min     Organism: Caulobacter crescentus CB15     Source: Caulobacter crecentus CB15N     RE: BglII
+GSM1120459 SRX263936 SRR824857 BglII CC-CB15N
+# Name: Laublab_BglII_HiC_NA1000_cellcycle_75min     Organism: Caulobacter crescentus CB15     Source: Caulobacter crecentus CB15N     RE: BglII
+GSM1120460 SRX263937 SRR824858 BglII CC-CB15N
+# Name: Laublab_BglII_HiC_NA1000_swarmer_cell_rsaA_relocation_xyl_locus     Organism: Caulobacter crescentus CB15     Source: Caulobacter crecentus CB15N     RE: BglII
+GSM1128751 SRX271475 SRR834581 BglII CC-CB15N
+# Name: Laublab_BglII_HiC_NA1000_swarmer_cell_empty_pMT675_van_locus     Organism: Caulobacter crescentus CB15     Source: Caulobacter crecentus CB15N     RE: BglII
+GSM1128752 SRX271476 SRR834582 BglII CC-CB15N

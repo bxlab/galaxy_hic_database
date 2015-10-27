@@ -1,0 +1,9 @@
+# Accession: GSE55634
+# Contributors: Fletcher O,Dryden N,Broome L,Maguire SL
+# Pubmed ID: 25122612
+# Name: BT483_CHi-C     Organism: Homo sapiens     Source: Breast cancer     RE: HindIII
+GSM1340638 SRX481667 SRR1184217,SRR1184218 HindIII hg19
+# Name: GM06990_CHi-C     Organism: Homo sapiens     Source: Lymphoblastoid     RE: HindIII
+GSM1340639 SRX481668 SRR1184219,SRR1184220 HindIII hg19
+# Name: SUM44_CHi-C     Organism: Homo sapiens     Source: Breast cancer     RE: HindIII
+GSM1340640 SRX481669 SRR1184221,SRR1184222 HindIII hg19

@@ -1,0 +1,11 @@
+# Accession: GSE41763
+# Contributors: McCord RP,Nazario-Toole A,Zhang H,Chines PS,Zhan Y,Erdos MR,Collins FS,Dekker J,Cao K
+# Pubmed ID: 23152449
+# Name: Hi-C_Normal_Father_Fibroblasts_p18     Organism: Homo sapiens     Source: normal forearm skin biopsy, Hi-C     RE: HindIII
+GSM1023732 SRX200032 SRR605479 HindIII hg19
+# Name: Hi-C_Normal_Age-Control_Fibroblasts_p20     Organism: Homo sapiens     Source: normal skin biopsy, Hi-C     RE: HindIII
+GSM1023733 SRX200033 SRR605480 HindIII hg19
+# Name: Hi-C_Progeria_HGPS_Fibroblasts_p17     Organism: Homo sapiens     Source: patient forearm skin biopsy, Hi-C     RE: HindIII
+GSM1023734 SRX200034 SRR605481 HindIII hg19
+# Name: Hi-C_Progeria_HGPS_Fibroblasts_p19     Organism: Homo sapiens     Source: patient forearm skin biopsy, Hi-C     RE: HindIII
+GSM1023735 SRX200035 SRR605482 HindIII hg19

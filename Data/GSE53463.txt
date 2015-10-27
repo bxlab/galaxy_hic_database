@@ -1,0 +1,11 @@
+# Accession: GSE53463
+# Contributors: Le Dily F,Baù D,Pohl A,Vicent G,Soronellas D,Castellano G,Serra F,Wright RH,Ballare C,Filion G,Marti-Renom MA,Beato M
+# Pubmed ID: 25274727
+# Name: Hi-C_HindIII_T0     Organism: Homo sapiens     Source: Breast cancer cell line     RE: HindIII
+GSM1294038 SRX395600 SRR1054341 HindIII hg19
+# Name: Hi-C_HindIII_T60     Organism: Homo sapiens     Source: Breast cancer cell line     RE: HindIII
+GSM1294039 SRX395601 SRR1054342 HindIII hg19
+# Name: Hi-C_NcoI_T0     Organism: Homo sapiens     Source: Breast cancer cell line     RE: NcoI
+GSM1294040 SRX395602 SRR1054343 NcoI hg19
+# Name: Hi-C_NcoI_T60     Organism: Homo sapiens     Source: Breast cancer cell line     RE: NcoI
+GSM1294041 SRX395603 SRR1054344 NcoI hg19

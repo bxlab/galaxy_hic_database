@@ -1,0 +1,29 @@
+# Accession: GSE49017
+# Contributors: Sofueva S,Yaffe E,Chan W,Georgopoulou D,Vietri-Rudan M,Pollard SM,Schroth GP,Tanay A,Hadjur S
+# Pubmed ID: 24185899
+# Name: HadjurLab-HiC-mNSC-Rad21-floxed_Rep1     Organism: Mus musculus     Source: neural stem cells     RE: HindIII
+GSM1192202 SRX326537 SRR941267,SRR941268,SRR941269,SRR941270 HindIII mm9
+# Name: HadjurLab-HiC-mNSC-Rad21-floxed_Rep2     Organism: Mus musculus     Source: neural stem cells     RE: HindIII
+GSM1192203 SRX326538 SRR941271,SRR941272,SRR941273,SRR941274 HindIII mm9
+# Name: HadjurLab-HiC-mNSC-Rad21-deleted_Rep1     Organism: Mus musculus     Source: neural stem cells     RE: HindIII
+GSM1192204 SRX326539 SRR941275,SRR941276,SRR941277,SRR941278 HindIII mm9
+# Name: HadjurLab-HiC-mNSC-Rad21-deleted_Rep2     Organism: Mus musculus     Source: neural stem cells     RE: HindIII
+GSM1192205 SRX326540 SRR941279,SRR941280,SRR941281,SRR941282 HindIII mm9
+# Name: HadjurLab-HiC-mNSC-Rad21-floxed-G1     Organism: Mus musculus     Source: neural stem cells     RE: HindIII
+GSM1192206 SRX326541 SRR941283,SRR941284,SRR941285,SRR941286 HindIII mm9
+# Name: HadjurLab-HiC-mNSC-Rad21-WT     Organism: Mus musculus     Source: neural stem cells     RE: HindIII
+GSM1192207 SRX326542 SRR941287 HindIII mm9
+# Name: HadjurLab-HiC-mNSC-Rad21-WT_OHT     Organism: Mus musculus     Source: neural stem cells     RE: HindIII
+GSM1192208 SRX326543 SRR941288 HindIII mm9
+# Name: HadjurLab-HiC-mAST-Rad21-floxed_Rep1     Organism: Mus musculus     Source: astrocytes     RE: HindIII
+GSM1192209 SRX326544 SRR941289,SRR941290,SRR941291,SRR941292 HindIII mm9
+# Name: HadjurLab-HiC-mAST-Rad21-floxed_Rep2     Organism: Mus musculus     Source: astrocytes     RE: HindIII
+GSM1192210 SRX326545 SRR941293,SRR941294,SRR941295,SRR941296 HindIII mm9
+# Name: HadjurLab-HiC-mAST-Rad21-deleted_Rep1     Organism: Mus musculus     Source: astrocytes     RE: HindIII
+GSM1192211 SRX326546 SRR941297,SRR941298,SRR941299,SRR941300 HindIII mm9
+# Name: HadjurLab-HiC-mAST-Rad21-deleted_Rep2     Organism: Mus musculus     Source: astrocytes     RE: HindIII
+GSM1192212 SRX326547 SRR941301,SRR941302,SRR941303,SRR941304 HindIII mm9
+# Name: HadjurLab-HiC-mAST-Rad21-WT     Organism: Mus musculus     Source: astrocytes     RE: HindIII
+GSM1192213 SRX326548 SRR941305,SRR941306 HindIII mm9
+# Name: HadjurLab-HiC-mAST-Rad21-WT_AdCre     Organism: Mus musculus     Source: astrocytes     RE: HindIII
+GSM1192214 SRX326549 SRR941307,SRR941308 HindIII mm9

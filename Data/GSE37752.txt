@@ -1,0 +1,23 @@
+# Accession: GSE37752
+# Contributors: Rickman DS,Soong D,Moss B,Mosquera JM,Dlabal J,Terry S,MacDonald TY,Tripodi J,Bunting K,Najfeld V,Demichelis F,Melnick AM,Elemento O,Rubin MA
+# Pubmed ID: 22615383
+# Name: RWPE1-ERG_HiC_library_1    Organism: Homo sapiens     Source: RWPE1-ERG prostate epithelial cell line     RE: HindIII
+GSM927075 SRX145847 SRR493818 HindIII hg19
+# Name: RWPE1-GFP_HiC_library_1     Organism: Homo sapiens     Source: RWPE1-GFP prostate epithelial cell line     RE: HindIII
+GSM927076 SRX145848 SRR493819 HindIII hg19
+# Name: RWPE1-ERG_HiC_library_2_Rep1     Organism: Homo sapiens     Source: RWPE1-ERG prostate epithelial cell line     RE: HindIII
+GSM927077 SRX145849 SRR493820 HindIII hg19
+# Name: RWPE1-ERG_HiC_library_2_Rep2     Organism: Homo sapiens     Source: RWPE1-ERG prostate epithelial cell line     RE: HindIII
+GSM927078 SRX145850 SRR493821 HindIII hg19
+# Name: RWPE1-ERG_HiC_library_2_Rep3     Organism: Homo sapiens     Source: RWPE1-ERG prostate epithelial cell line     RE: HindIII
+GSM927079 SRX145851 SRR493822 HindIII hg19
+# Name: RWPE1-ERG_HiC_library_2_Rep4     Organism: Homo sapiens     Source: RWPE1-ERG prostate epithelial cell line     RE: HindIII
+GSM927080 SRX145852 SRR493823 HindIII hg19
+# Name: RWPE1-GFP_HiC_library_2_Rep1     Organism: Homo sapiens     Source: RWPE1-GFP prostate epithelial cell line     RE: HindIII
+GSM927081 SRX145853 SRR493824 HindIII hg19
+# Name: RWPE1-GFP_HiC_library_2_Rep2     Organism: Homo sapiens     Source: RWPE1-GFP prostate epithelial cell line     RE: HindIII
+GSM927082 SRX145854 SRR493825 HindIII hg19
+# Name: RWPE1-GFP_HiC_library_2_Rep3     Organism: Homo sapiens     Source: RWPE1-GFP prostate epithelial cell line     RE: HindIII
+GSM927083 SRX145855 SRR493826 HindIII hg19
+# Name: RWPE1-GFP_HiC_library_2_Rep4     Organism: Homo sapiens     Source: RWPE1-GFP prostate epithelial cell line     RE: HindIII
+GSM927084 SRX145856 SRR493827 HindIII hg19

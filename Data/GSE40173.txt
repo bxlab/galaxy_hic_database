@@ -1,0 +1,9 @@
+# Accession: GSE40173
+# Contributors: Lin YC,Benner C,Mansson R,Heinz S,Miyazaki K,Miyazaki M,Chandra V,Bossen C,Glass CK,Murre C
+# Pubmed ID: 23064439
+# Name: pre-proB_Hi-C_EGS     Organism: Mus musculus     Source: multipotent progenitor     RE: HindIII
+GSM987816 SRX178471 SRR543421,SRR543422,SRR543423,SRR543424,SRR543425,SRR543426,SRR543427 HindIII mm9
+# Name: pro-B_Hi-C_FA     Organism: Mus musculus     Source: progenitor B     RE: HindIII
+GSM987817 SRX178472 SRR543428,SRR543429,SRR543430,SRR543431 HindIII mm9
+# Name: pro-B_Hi-C_EGS     Organism: Mus musculus     Source: progenitor B     RE: HindIII
+GSM987818 SRX178473 SRR543432,SRR543433,SRR543434,SRR543435,SRR543436,SRR543437,SRR543438,SRR543439,SRR543440,SRR543441,SRR543442 HindIII mm9

@@ -1,0 +1,7 @@
+# Accession: GSE66811
+# Contributors: Badrinarayanan A,Le TB,Laub MT
+# Pubmed ID: 26240183
+# Name: Laublab_BglII_HiC_NA1000_IsceI_site_33kb_from_oriC_IsceI_enzyme_induced     Organism: Caulobacter crescentus NA1000     Source: C. crecentus_vanillate     RE: BglII
+GSM1632602 SRX952429 SRR1910739 BglII cc-NA1000
+# Name: Laublab_BglII_HiC_NA1000_IsceI_enzyme_absence     Organism: Caulobacter crescentus NA1000     Source: C. crecentus_control     RE: BglII
+GSM1632603 SRX952430 SRR1910740 BglII cc-NA1000

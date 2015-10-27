@@ -1,0 +1,31 @@
+# Accession: GSE43070
+# Contributors: Jin F,Li Y,Ren B
+# Pubmed ID: 24141950
+# Name: Hi-C_IMR90_Rep1     Organism: Homo sapiens     Source: fetal lung fibroblast     RE: HindIII
+GSM1055800 SRX212172 SRR639025,SRR639026,SRR639027,SRR639028,SRR639029 HindIII hg19
+# Name: Hi-C_IMR90_Rep2     Organism: Homo sapiens     Source: fetal lung fibroblast     RE: HindIII
+GSM1055801 SRX212173 SRR639030,SRR639031,SRR639032,SRR639033 HindIII hg19
+# Name: Hi-C_IMR90_TNF-alpha_Rep1     Organism: Homo sapiens     Source: fetal lung fibroblast     RE: HindIII
+GSM1055802 SRX212174 SRR639034,SRR639035,SRR639036,SRR639037,SRR639038,SRR639039,SRR639040 HindIII hg19
+# Name: Hi-C_IMR90_TNF-alpha_Rep2     Organism: Homo sapiens     Source: fetal lung fibroblast     RE: HindIII
+GSM1055803 SRX212175 SRR639041,SRR639042,SRR639043,SRR639044,SRR886331 HindIII hg19
+# Name: Hi-C_IMR90_Flavopiridol     Organism: Homo sapiens     Source: fetal lung fibroblast     RE: HindIII
+GSM1055804 SRX212176 SRR639045,SRR639046 HindIII hg19
+# Name: Hi-C_H1_hESC     Organism: Homo sapiens     Source: embryonic stem cells     RE: HindIII
+GSM1055805 SRX212177 SRR639047,SRR639048,SRR639049 HindIII hg19
+# Name: Hi-C_IMR90_Rep3     Organism: Homo sapiens     Source: fetal lung fibroblast     RE: HindIII
+GSM1154021 SRX294948 SRR881990,SRR881991,SRR881992 HindIII hg19
+# Name: Hi-C_IMR90_Rep4     Organism: Homo sapiens     Source: fetal lung fibroblast     RE: HindIII
+GSM1154022 SRX294949 SRR881993,SRR881994,SRR881995 HindIII hg19
+# Name: Hi-C_IMR90_Rep5     Organism: Homo sapiens     Source: fetal lung fibroblast     RE: HindIII
+GSM1154023 SRX294950 SRR881996 HindIII hg19
+# Name: Hi-C_IMR90_Rep6     Organism: Homo sapiens     Source: fetal lung fibroblast     RE: HindIII
+GSM1154024 SRX294951 SRR881997 HindIII hg19
+# Name: Hi-C_IMR90_TNF-alpha_Rep3     Organism: Homo sapiens     Source: fetal lung fibroblast     RE: HindIII
+GSM1154025 SRX294952 SRR881998,SRR881999,SRR882000 HindIII hg19
+# Name: Hi-C_IMR90_TNF-alpha_Rep4     Organism: Homo sapiens     Source: fetal lung fibroblast     RE: HindIII
+GSM1154026 SRX294953 SRR882001,SRR882002,SRR882003 HindIII hg19
+# Name: Hi-C_IMR90_TNF-alpha_Rep5     Organism: Homo sapiens     Source: fetal lung fibroblast     RE: HindIII
+GSM1154027 SRX294954 SRR882004 HindIII hg19
+# Name: Hi-C_IMR90_TNF-alpha_Rep6     Organism: Homo sapiens     Source: fetal lung fibroblast     RE: HindIII
+GSM1154028 SRX294955 SRR882005 HindIII hg19

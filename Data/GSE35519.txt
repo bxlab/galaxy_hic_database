@@ -1,0 +1,17 @@
+# Accession: GSE35519
+# Contributors: McCord RP,Zhang Y,Lajoie BR,Ho Y,Alt FW,Dekker J
+# Pubmed ID: 22341456
+# Name: Hi-C_ATM--_I-SceI-chr2-R1     Organism: Mus musculus     Source: A-MuLV-transformed pro-B cell line, ATM-/-     RE: HindIII
+GSM870040 SRX118420 SRR404104 HindIII mm9
+# Name: Hi-C_ATM--_I-SceI-chr2-R2     Organism: Mus musculus     Source: A-MuLV-transformed pro-B cell line, ATM-/-     RE: HindIII
+GSM870041 SRX118421 SRR404105 HindIII mm9
+# Name: Hi-C_ATM--_I-SceI-chr7-R1     Organism: Mus musculus     Source: A-MuLV-transformed pro-B cell line, ATM-/-     RE: HindIII
+GSM870042 SRX118422 SRR404106 HindIII mm9
+# Name: Hi-C_ATM--_I-SceI-chr18-R1     Organism: Mus musculus     Source: A-MuLV-transformed pro-B cell line, ATM-/-     RE: HindIII
+GSM870043 SRX118423 SRR404107 HindIII mm9
+# Name: Hi-C_ATM--_I-SceI-chr18-R2     Organism: Mus musculus     Source: A-MuLV-transformed pro-B cell line, ATM-/-     RE: HindIII
+GSM870044 SRX118424 SRR404108 HindIII mm9
+# Name: Hi-C_WT_I-SceI-chr15-R1     Organism: Mus musculus     Source: A-MuLV-transformed pro-B cell line, WT     RE: HindIII
+GSM870045 SRX118425 SRR404109 HindIII mm9
+# Name: Hi-C_WT_I-SceI-chr2-R1     Organism: Mus musculus     Source: A-MuLV-transformed pro-B cell line, WT     RE: HindIII
+GSM870046 SRX118426 SRR404110 HindIII mm9

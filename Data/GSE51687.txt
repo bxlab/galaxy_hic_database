@@ -1,0 +1,43 @@
+# Accession: GSE51687
+# Contributors: Mourad R,Juan L,Hsu P
+# Pubmed ID: 25470140
+# Name: 0h_Rep1     Organism: Homo sapiens     Source: MCF-7_0h     RE: HindIII
+GSM1250485 SRX367555 SRR1016425 HindIII hg19
+# Name: 0h_Rep1     Organism: Homo sapiens     Source: MCF-7_0h     RE: HindIII
+GSM1250486 SRX367556 SRR1016426 HindIII hg19
+# Name: 0h_Rep2     Organism: Homo sapiens     Source: MCF-7_0h     RE: HindIII
+GSM1250487 SRX367557 SRR1016427 HindIII hg19
+# Name: 0h_Rep2     Organism: Homo sapiens     Source: MCF-7_0h     RE: HindIII
+GSM1250488 SRX367558 SRR1016428 HindIII hg19
+# Name: 0.5h_Rep1     Organism: Homo sapiens     Source: MCF-7_0.5h     RE: HindIII
+GSM1250489 SRX367559 SRR1016429 HindIII hg19
+# Name: 0.5h_Rep1     Organism: Homo sapiens     Source: MCF-7_0.5h     RE: HindIII
+GSM1250490 SRX367560 SRR1016430 HindIII hg19
+# Name: 0.5h_Rep2     Organism: Homo sapiens     Source: MCF-7_0.5h     RE: HindIII
+GSM1250491 SRX367561 SRR1016431 HindIII hg19
+# Name: 0.5h_Rep2     Organism: Homo sapiens     Source: MCF-7_0.5h     RE: HindIII
+GSM1250492 SRX367562 SRR1016432 HindIII hg19
+# Name: 1h_Rep1     Organism: Homo sapiens     Source: MCF-7_1h     RE: HindIII
+GSM1250493 SRX367563 SRR1016433 HindIII hg19
+# Name: 1h_Rep1     Organism: Homo sapiens     Source: MCF-7_1h     RE: HindIII
+GSM1250494 SRX367564 SRR1016434 HindIII hg19
+# Name: 1h_Rep2     Organism: Homo sapiens     Source: MCF-7_1h     RE: HindIII
+GSM1250495 SRX367565 SRR1016435 HindIII hg19
+# Name: 1h_Rep2     Organism: Homo sapiens     Source: MCF-7_1h     RE: HindIII
+GSM1250496 SRX367566 SRR1016436 HindIII hg19
+# Name: 4h_Rep1     Organism: Homo sapiens     Source: MCF-7_4h     RE: HindIII
+GSM1250497 SRX367567 SRR1016437 HindIII hg19
+# Name: 4h_Rep1     Organism: Homo sapiens     Source: MCF-7_4h     RE: HindIII
+GSM1250498 SRX367568 SRR1016438 HindIII hg19
+# Name: 4h_Rep2     Organism: Homo sapiens     Source: MCF-7_4h     RE: HindIII
+GSM1250499 SRX367569 SRR1016439 HindIII hg19
+# Name: 4h_Rep2     Organism: Homo sapiens     Source: MCF-7_4h     RE: HindIII
+GSM1250500 SRX367570 SRR1016440 HindIII hg19
+# Name: 24h_Rep1     Organism: Homo sapiens     Source: MCF-7_24h     RE: HindIII
+GSM1250501 SRX367571 SRR1016441 HindIII hg19
+# Name: 24h_Rep1     Organism: Homo sapiens     Source: MCF-7_24h     RE: HindIII
+GSM1250502 SRX367572 SRR1016442 HindIII hg19
+# Name: 24h_Rep2     Organism: Homo sapiens     Source: MCF-7_24h     RE: HindIII
+GSM1250503 SRX367573 SRR1016443 HindIII hg19
+# Name: 24h_Rep2     Organism: Homo sapiens     Source: MCF-7_24h     RE: HindIII
+GSM1250504 SRX367574 SRR1016444 HindIII hg19

@@ -1,0 +1,7 @@
+# Accession: GSE61471
+# Contributors: Schuettengruber B,Elkayam NO,Sexton T,Entrevan M,Stern S,Thomas A,Yaffe E,Parrinello H,Tanay A,Cavalli G
+# Pubmed ID: 25284790
+# Name: WT_Rep1     Organism: Drosophila melanogaster     Source: 16-18 hr embryo     RE: DpnII
+GSM1505557 SRX701795 SRR1576082,SRR1576083,SRR1576084,SRR1576085,SRR1576086 DpnII dm6
+# Name: WT_Rep2     Organism: Drosophila melanogaster     Source: 16-18 hr embryo     RE: DpnII
+GSM1505558 SRX701796 SRR1576087,SRR1576088,SRR1576089,SRR1576090,SRR1576091 DpnII dm6
